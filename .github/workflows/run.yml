@@ -28,4 +28,3 @@ jobs:
         ibmcloud cf install
         ibmcloud cf restart ${{ secrets.CFNAME }}
  
-
